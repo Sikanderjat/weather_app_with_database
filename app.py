@@ -97,4 +97,4 @@ def aftersignup():
         else :
             return "please enter same password"
 
-app.run(debug=True,host="localhost",port=5505)
+# app.run(debug=True,host="localhost",port=5505)
